@@ -13,6 +13,9 @@ namespace ConsoleApplication3
             Console.WriteLine("Commit...");
             Console.WriteLine("Commit2...");
             string arnaud = "";
+
+            Console.WriteLine("Commit3...");
+
         }
     }
 }
